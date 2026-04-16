@@ -1,0 +1,10 @@
+[package]
+name = "kael_skills"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.27"
+egui = "0.27"
+rand = "0.8"
+image = { version = "0.24", features = ["png"] }
